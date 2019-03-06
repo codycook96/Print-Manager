@@ -1,2 +1,3 @@
 # Print-Manager
-A Windows application that catalogs print files of various substations. Created for College Station Utilities.
+
+![Report1](https://github.com/codycook96/Metering-Comparison/blob/master/Media/CS1.png)
